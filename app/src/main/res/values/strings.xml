@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fibonacci Numbers</string>
+    <string name="enter_number">Enter number</string>
+</resources>
